@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="ROBOTS" content="NOINDEX, FOLLOW">
+	<title>Info / GameSense</title>
+	<link rel="stylesheet" type="text/css" href="Info%20_%20GameSense_files/Cobalt.min.css">
+	<link rel="stylesheet" type="text/css" href="Info%20_%20GameSense_files/font-awesome.min.css">
+	<link href="Info%20_%20GameSense_files/css.css" rel="stylesheet" type="text/css">
+	<script src="Info%20_%20GameSense_files/jquery.min.js"></script>
+	<script src="Info%20_%20GameSense_files/notifications.js" type="text/javascript" charset="UTF-8"></script>
+</head>
+
+<body>
+
+<div id="punindex" class="pun">
+<div class="top-box"></div>
+<div class="punwrap">
+
+<div id="brdheader" class="block">
+	<div class="box">
+		<div id="brdtitle" class="inbox">
+			<h1><a href="https://gamesense.pub/forums/">game<span>sense</span></a></h1>
+			<div id="brddesc"></div>
+		</div>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li id="navnotifications"><span class="fake-link" id="notifications" href="notifications.php"><i class="fa fa-lg fa-bell" id="notifications-badge" data-after-content="0"></i></span></li>
+				<li id="navindex" class="isactive"><a href="https://trapsmp.github.io/skeet.cc/index.html">Index</a></li>
+				<li id="navregister"><a href="https://trapsmp.github.io/register.html">Register</a></li>
+				<li id="navlogin"><a href="https://trapsmp.github.io/login.html">Login</a></li>
+			</ul>
+		</div>
+		<div id="notifications-container" style="display: none;">
+			<div id="notifications-body">
+				<ul id="notifications-list"></ul>
+			</div>
+			<div id="notifications-footer">
+				<p><a id="notifications-clear" href="#">Clear</a></p>
+			</div>
+		</div>
+		<div id="brdwelcome" class="inbox">
+			<p class="conl">You are not logged in.</p>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+
+
+
+<div id="brdmain">
+<div id="msg" class="block">
+	<h2><span>Info</span></h2>
+	<div class="box">
+		<div class="inbox">
+			<p>You do not have permission to view these forums.</p>
+			<p><a href="javascript: history.go(-1)">Go back</a></p>
+		</div>
+	</div>
+</div>
+</div>
+
+<div id="brdfooter" class="block">
+	<div class="box">
+		<div class="inbox">
+			<p>Skeet.cc 2026</p>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="end-box"></div>
+</div>
+
+
+
+</body></html>
